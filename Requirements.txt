@@ -1,5 +1,0 @@
-Python
-TensorFlow / Keras
-NumPy, pandas
-Matplotlib, seaborn
-OpenCV
