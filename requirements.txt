@@ -1,0 +1,6 @@
+Python
+TensorFlow 
+NumPy, pandas
+Matplotlib
+seaborn
+OpenCV
