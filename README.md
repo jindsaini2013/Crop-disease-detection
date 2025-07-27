@@ -21,3 +21,16 @@ A diverse dataset of over 13,000 images covering both healthy and diseased crops
 
 FARM-AID achieves over 96% classification accuracy, offering a scalable and field-ready solution that empowers farmers with actionable insights, improving crop yield and agricultural sustainability.
 
+### 🔧 How to Run
+1. Clone the repo
+```bash
+git clone https://github.com/jindsaini2013/Crop-disease-detection.git
+```
+2. Install required dependencies
+```bash
+pip install -r requirements.txt
+```
+3. Run the notebook
+```bash
+jupyter notebook "Farm-Aid CNN Models.ipynb"
+```
