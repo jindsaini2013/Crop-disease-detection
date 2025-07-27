@@ -1,6 +1,7 @@
 Python
 TensorFlow 
-NumPy, pandas
+NumPy
+pandas
 Matplotlib
 seaborn
 OpenCV
